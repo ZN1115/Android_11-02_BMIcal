@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BMIsmaple</string>
+    <string name="app_title">我的BMI計算器喲</string>
+    <string name="BodyHeight">身高:</string>
+    <string name="DefaultBodyHeight">170</string>
+    <string name="tv_Weight">體重:</string>
+    <string name="DefaultBodyWeight">65</string>
+    <string name="Calculation">開始計算</string>
+    <string name="tv_BMI">TextView</string>
+    <string name="Author">作者資訊</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="StudentName">姓名:金子恩</string>
+    <string name="StudentNumber">學號:F74562036</string>
+</resources>
